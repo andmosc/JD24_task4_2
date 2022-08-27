@@ -1,0 +1,6 @@
+rootProject.name = 'task4_Gradle'
+
+include 'db'
+include 'api'
+include 'service'
+
