@@ -184,18 +184,3 @@ public class Main {
 
 После успешной сборки проекта можем выполнить данный код. 
 
-В результате выполнения данного задания мы получили модульный проект с разделением по функциональности
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
